@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'http://34.128.92.161/submission-fe';
+$config['base_url'] = 'http://34.128.92.161/';
 
 /*
 |--------------------------------------------------------------------------
